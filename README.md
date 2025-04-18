@@ -6,15 +6,15 @@ Project Information - Project Group No. : 14
   
 Project Members
 
-1.6731503012	 Taweesak     Sangkoranee	section 1
+1.6731503012	 Taweesak     Sangkoranee	  section 1
 
-2.6731503036	 Wichayapon   Seepin	section 1
+2.6731503036	 Wichayapon   Seepin	      section 1
 
-3.6731503044	 Aubolwan     Maneechan	section 1
+3.6731503044	 Aubolwan     Maneechan	    section 1
 
-4.6731503123	 Sawitta      hiabsaeng	section 2
+4.6731503123	 Sawitta      hiabsaeng	    section 2
 
-5.6731503127	 Onpreya      Thinan	section 2
+5.6731503127	 Onpreya      Thinan	      section 2
 
 Project Background 
 
